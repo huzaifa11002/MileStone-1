@@ -1,0 +1,24 @@
+@media screen and (max-width:768px){
+    h1{font-size: 40px;}
+    h2{font-size: 25px;}
+    h3{font-size: 20px;}
+    h4{font-size: 16px;}
+    p{font-size: 16px; width: 70%;}
+    .see-btn{font-size: 16px;}
+}
+@media screen and (max-width:480px){
+    h1{font-size: 35px;}
+    h2{font-size: 20px;}
+    h3{font-size: 18px;}
+    h4{font-size: 16px;}
+    p{font-size: 16px; width: 80%;}
+    .see-btn{font-size: 16px;}
+}
+@media screen and (max-width:360px){
+    h1{font-size: 30px;}
+    h2{font-size: 18px;}
+    h3{font-size: 16px;}
+    h4{font-size: 14px;}
+    p{font-size: 14px; width: 100%;}
+    .see-btn{font-size: 14px;}
+}
